@@ -1,0 +1,10 @@
+{
+    "values": [
+        "#minecraft:logs",
+        "#minecraft:mineable/pickaxe",
+        "#minecraft:mineable/shovel",
+        "minecraft:bedrock",
+        "minecraft:lava",
+        "minecraft:water"
+    ]
+}
