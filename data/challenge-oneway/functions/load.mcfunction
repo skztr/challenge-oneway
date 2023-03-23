@@ -1,9 +1,8 @@
 scoreboard objectives add c_oneway_init dummy
 scoreboard objectives add c_oneway_reset dummy
 scoreboard objectives add c_oneway_nether_scale dummy
-scoreboard objectives add c_oneway_maxpad dummy
-scoreboard objectives add c_oneway_minpad dummy
 scoreboard objectives add c_oneway_pad dummy
+scoreboard objectives add c_oneway_size dummy
 scoreboard objectives add c_oneway_x dummy
 scoreboard objectives add c_oneway_z dummy
 scoreboard objectives add c_oneway_maxx dummy
